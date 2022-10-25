@@ -349,7 +349,7 @@ form button:hover{
   font-size: 20px;
   color: rgba(255, 255, 255, 1);
 }
-.underline{
+.underline:hover{
   text-decoration: underline;
 }
 .contact {
